@@ -3,5 +3,4 @@ public class Client1 {
         new ClientBase().startClient("client1");
     }
 
-    // hkdaskjdçlacs
 }
